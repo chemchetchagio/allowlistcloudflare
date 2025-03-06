@@ -1,3 +1,4 @@
 bidv.com.vn
 smartbanking.bidv.com.vn
 ebank.bidv.com.vn
+omni.bidv.com.vn
