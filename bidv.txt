@@ -1,3 +1,3 @@
-0.0.0.0 bidv.com.vn
-0.0.0.0 smartbanking.bidv.com.vn
-0.0.0.0 ebank.bidv.com.vn
+bidv.com.vn
+smartbanking.bidv.com.vn
+ebank.bidv.com.vn
