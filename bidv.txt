@@ -2,5 +2,4 @@
 127.0.0.1 smartbanking.bidv.com.vn
 127.0.0.1 ebank.bidv.com.vn
 127.0.0.1 omni.bidv.com.vn
-127.0.0.1 facvicon-grs.dbankcloud.comgrs.dbankcloud.com
-127.0.0.1 facvicon-grs.dbankcloud.comgrs.dbankcloud.eu
+127.0.0.1 bidvsmartbanking.vn
