@@ -1,5 +1,5 @@
-127.0.0.1 bidv.com.vn
-127.0.0.1 smartbanking.bidv.com.vn
-127.0.0.1 ebank.bidv.com.vn
-127.0.0.1 omni.bidv.com.vn
-127.0.0.1 bidvsmartbanking.vn
+0.0.0.0 bidv.com.vn
+0.0.0.0 smartbanking.bidv.com.vn
+0.0.0.0 ebank.bidv.com.vn
+0.0.0.0 omni.bidv.com.vn
+0.0.0.0 bidvsmartbanking.vn
