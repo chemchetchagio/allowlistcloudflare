@@ -1,2 +1,3 @@
-t.co
-s.youtube.com
+127.0.0.1 t.co
+127.0.0.1 s.youtube.com
+127.0.0.1 mtalk.google.com
